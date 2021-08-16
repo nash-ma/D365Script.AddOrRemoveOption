@@ -1,6 +1,6 @@
 # D365Script.AddOrRemoveOption
 # オプションセットコントロールにオプションの追加とリムーブ（adds or removes an option to control）
-## ■変更前：スクリプトを追加した前に案件ステータスのオプションは「A、B、C、D、E」があります。👇
+## ■変更前：スクリプトを追加した前に項目「案件ステータス」のオプションは「A、B、C、D、E」があります。👇
 ![スクリプト追加前：受注済がはい](WebSite/image/image1.png "スクリプト追加前：受注済がはい")
 
 ![スクリプト追加前：受注済がいいえ](WebSite/image/image2.png "スクリプト追加前：受注済がいいえ")
